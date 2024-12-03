@@ -1,0 +1,4 @@
+D:\main\code\cpp\tetris\Tetris\x64\Debug\Tetris.vcxproj.CopyComplete
+D:\main\code\cpp\tetris\Tetris\x64\Debug\Tetris.exe
+D:\main\code\cpp\tetris\Tetris\x64\Debug\raylib.dll
+D:\main\code\cpp\tetris\Tetris\x64\Debug\glfw3.dll
